@@ -3,7 +3,7 @@
 ##################
 
 # specify the directory where the data is located
-specdata<-"/Users/Zelda/Desktop/Intro to R/specdata"
+specdata<-"/Users/Zelda/Data Science/Intro to R/specdata"
 
 #----------#
 #- PART 1 -#

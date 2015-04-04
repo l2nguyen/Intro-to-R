@@ -1,9 +1,9 @@
 complete<- function(directory,id=1:332) {
-  files<- dir(directory,full.names=TRUE) #creates a list of files
+  files<- dir(directory,full.names=TRUE)  # creates a list of files
   
-  #create two new variables and specifies their types
-  #idCol<- numeric()
-  #nocsCol<- numberic()
+  # create two new variables and specifies their types
+  # idCol<- numeric()
+  # nocsCol<- numberic()
   dat<- data.frame()
   
   for(i in id) {
